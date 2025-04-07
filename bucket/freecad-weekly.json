@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/FreeCAD/FreeCAD-Bundle/releases/download/weekly-builds/FreeCAD_weekly-builds-41155-conda-Windows-x86_64-py311.7z",
-            "extract_dir": "FreeCAD_weekly-builds-36391-Win-Conda-x86_64.7z",
+            "extract_dir": "FreeCAD_weekly-builds-41155-conda-Windows-x86_64-py311",
             "hash": "6d5d1bf7c20d7cafb87315db0f150f9e204407abcce2a0fd18519b6a343cb3c8"
             
         }
