@@ -1,16 +1,4 @@
-# foosel's scoop bucket
-
-My personal [scoop](https://scoop.sh/) bucket.
-
-Kept up-to-date through the power of GitHub Actions and [scoop-checkver-action](https://github.com/foosel/scoop-checkver-action).
-
-## How to add
-
-```
-scoop bucket add foosel https://github.com/foosel/scoop-bucket
-```
-
-## Available Apps
+Copy of foosel's scoop bucket to update freecad-weekly
 
   * `cq-editor`: Latest release of the [CadQuery GUI editor based on PyQT ](https://github.com/CadQuery/CQ-editor)
   * `freecad-linkbranch-daily`: Daily build of [RealThunder's FreeCAD "Linkbranch" fork](https://github.com/realthunder/FreeCAD_assembly3/releases/tag/0.11)
